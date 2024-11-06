@@ -1,5 +1,4 @@
 import React from 'react';
-import cobs from 'cobs';
 // import { Buffer } from 'node:buffer';
 
 export function ShowData({ data }) {
